@@ -13,9 +13,4 @@ This Python script extracts audio from a video file and saves it as an audio fil
 - The following Python packages:
   - `moviepy`
 
-## Installation
 
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/your-username/video-to-audio-converter.git
-   cd video-to-audio-converter
